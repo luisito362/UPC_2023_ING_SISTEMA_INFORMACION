@@ -12,10 +12,10 @@
 - [PC1-Solucionario]
 - [PC2]
 - [PC2-Solucionario]
-- [EXAMEN PARCIAL]
-- [EXAMEN PARCIAL-Solucionario]
-- [EXAMEN FINAL]
-- [EXAMEN FINAL-Solucionario]
+- [Examen Parcial]
+- [Examen Parcial-Solucionario]
+- [Examen Final]
+- [Examen Final-Solucionario]
 
 
 ## Arquitectura de Negocio
