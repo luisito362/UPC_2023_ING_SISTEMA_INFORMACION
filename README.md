@@ -9,9 +9,13 @@
 
 ## Diseño de Base de Datos 
 - [PC1]
+- [PC1-Solucionario]
 - [PC2]
+- [PC2-Solucionario]
 - [EXAMEN PARCIAL]
+- [EXAMEN PARCIAL-Solucionario]
 - [EXAMEN FINAL]
+- [EXAMEN FINAL-Solucionario]
 
 
 ## Arquitectura de Negocio
