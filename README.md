@@ -8,14 +8,14 @@
 - [TRABAJO PARCIAL Y FINAL]
 
 ## Diseño de Base de Datos 
-- [PC1]
-- [PC1-Solucionario]
-- [PC2]
-- [PC2-Solucionario]
-- [Examen Parcial]
-- [Examen Parcial-Solucionario]
-- [Examen Final]
-- [Examen Final-Solucionario]
+- [PC1](https://github.com/luisito362/2023_01/blob/main/Dise%C3%B1o%20de%20Base%20de%20Datos/upc-pre-202301-si400-ws41-pc01-enunciado.pdf)
+- [PC1-Solucionario](https://github.com/luisito362/2023_01/blob/main/Dise%C3%B1o%20de%20Base%20de%20Datos/upc-pre-202301-si400-ws41-pc01.pdf)
+- [PC2](https://github.com/luisito362/2023_01/blob/main/Dise%C3%B1o%20de%20Base%20de%20Datos/upc-pre-202301-si400-ws41-pc02-enunciado.pdf)
+- [PC2-Solucionario](https://github.com/luisito362/2023_01/blob/main/Dise%C3%B1o%20de%20Base%20de%20Datos/upc-pre-202301-si400-ws41-pc02.pdf)
+- [Examen Parcial](https://github.com/luisito362/2023_01/blob/main/Dise%C3%B1o%20de%20Base%20de%20Datos/upc-pre-202301-si400-examen-parcial-enunciado.pdf)
+- [Examen Parcial-Solucionario](https://github.com/luisito362/2023_01/blob/main/Dise%C3%B1o%20de%20Base%20de%20Datos/upc-pre-202301-si400-examen-parcial.pdf)
+- [Examen Final](https://github.com/luisito362/2023_01/blob/main/Dise%C3%B1o%20de%20Base%20de%20Datos/upc-pre-202301-si400-examen-final-enunciado.pdf)
+- [Examen Final-Solucionario](https://github.com/luisito362/2023_01/blob/main/Dise%C3%B1o%20de%20Base%20de%20Datos/upc-pre-202301-si400-examen-final.pdf)
 
 
 ## Arquitectura de Negocio
