@@ -5,7 +5,7 @@
 - [PC2]
 - [EXAMEN PARCIAL](https://github.com/luisito362/2023_01/blob/main/Redes%20y%20Comunicacion%20de%20Datos/REDES_PARCIAL_2023_01.pdf)
 - [EXAMEN FINAL](https://github.com/luisito362/2023_01/blob/main/Redes%20y%20Comunicacion%20de%20Datos/REDES_EX_FINAL_2023_01.pdf)
-- [TRABAJO PARCIAL Y FINAL]
+- [TRABAJO PARCIAL Y FINAL](https://github.com/luisito362/2023_01/blob/main/Redes%20y%20Comunicacion%20de%20Datos/SI640_Trabajo_Final_2023-1_Equipo05.pdf)
 
 ## Diseño de Base de Datos 
 - [PC1](https://github.com/luisito362/2023_01/blob/main/Dise%C3%B1o%20de%20Base%20de%20Datos/upc-pre-202301-si400-ws41-pc01-enunciado.pdf)
