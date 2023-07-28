@@ -16,6 +16,7 @@
 - [Examen Parcial-Solucionario](https://github.com/luisito362/2023_01/blob/main/Dise%C3%B1o%20de%20Base%20de%20Datos/upc-pre-202301-si400-examen-parcial.pdf)
 - [Examen Final](https://github.com/luisito362/2023_01/blob/main/Dise%C3%B1o%20de%20Base%20de%20Datos/upc-pre-202301-si400-examen-final-enunciado.pdf)
 - [Examen Final-Solucionario](https://github.com/luisito362/2023_01/blob/main/Dise%C3%B1o%20de%20Base%20de%20Datos/upc-pre-202301-si400-examen-final.pdf)
+- [GRABACIONES](https://www.youtube.com/watch?v=KqZAiY1HSSc&list=PLihzuaPGPKahSG6SZwg5B3bYN7Eg3t6rF&index=2)
 
 
 ## Arquitectura de Negocio
