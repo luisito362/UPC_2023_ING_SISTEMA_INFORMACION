@@ -1,10 +1,10 @@
 # UPC_2023_ING_SISTEMA_INFORMACION
 
 ## Redes y Comunicacion de Datos 
-- [PC1]
+- [PC1](https://github.com/luisito362/2023_01/blob/main/Redes%20y%20Comunicacion%20de%20Datos/REDES_PC1_2023_01.pdf)
 - [PC2]
-- [EXAMEN PARCIAL]
-- [EXAMEN FINAL]
+- [EXAMEN PARCIAL](https://github.com/luisito362/2023_01/blob/main/Redes%20y%20Comunicacion%20de%20Datos/REDES_PARCIAL_2023_01.pdf)
+- [EXAMEN FINAL](https://github.com/luisito362/2023_01/blob/main/Redes%20y%20Comunicacion%20de%20Datos/REDES_EX_FINAL_2023_01.pdf)
 - [TRABAJO PARCIAL Y FINAL]
 
 ## Diseño de Base de Datos 
