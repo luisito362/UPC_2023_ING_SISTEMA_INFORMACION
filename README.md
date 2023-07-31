@@ -1,9 +1,9 @@
 # UPC_2023_ING_SISTEMA_INFORMACION
 ## Estadistica Aplicada 1
--[Control 1]
--[Control 2]
--[Control 3]
--[Control Final]
+- [Control 1]()
+- [Control 2]()
+- [Control 3]()
+- [Control Final]()
 
 ## Redes y Comunicacion de Datos 
 - [PC1](https://github.com/luisito362/2023_01/blob/main/Redes%20y%20Comunicacion%20de%20Datos/REDES_PC1_2023_01.pdf)
