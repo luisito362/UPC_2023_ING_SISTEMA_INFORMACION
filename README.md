@@ -4,6 +4,7 @@
 - [Control 2](https://github.com/luisito362/2023_01/blob/main/Estadistica%20Aplicada%201/CONTROL_2.pdf)
 - [Control 3](https://github.com/luisito362/2023_01/blob/main/Estadistica%20Aplicada%201/CONTROL_3.pdf)
 - [Control Final](https://github.com/luisito362/2023_01/blob/main/Estadistica%20Aplicada%201/CONTROL_FINAL.pdf)
+- [GRABACIONES](https://www.youtube.com/watch?v=wTR4dr3L8BQ&list=PLihzuaPGPKagEfd7XH-FE4SGWBGf8vFBg&ab_channel=LuisGallegos)
 
 ## Redes y Comunicacion de Datos 
 - [PC1](https://github.com/luisito362/2023_01/blob/main/Redes%20y%20Comunicacion%20de%20Datos/REDES_PC1_2023_01.pdf)
