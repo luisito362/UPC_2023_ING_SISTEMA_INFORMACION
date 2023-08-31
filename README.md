@@ -1,4 +1,4 @@
-# UPC_2023_ING_SISTEMA_INFORMACION
+# ING_SISTEMA_INFORMACION
 ## Estadistica Aplicada 1
 - [Control 1](https://github.com/luisito362/2023_01/blob/main/Estadistica%20Aplicada%201/CONTROL_1.pdf)
 - [Control 2](https://github.com/luisito362/2023_01/blob/main/Estadistica%20Aplicada%201/CONTROL_2.pdf)
