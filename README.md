@@ -24,10 +24,17 @@
 - [Examen Final-Solucionario](https://github.com/luisito362/2023_01/blob/main/Dise%C3%B1o%20de%20Base%20de%20Datos/upc-pre-202301-si400-examen-final.pdf)
 - [GRABACIONES](https://www.youtube.com/watch?v=KqZAiY1HSSc&list=PLihzuaPGPKahSG6SZwg5B3bYN7Eg3t6rF&index=2)
 
-
 ## Arquitectura de Negocio
 - [PC1](https://github.com/luisito362/2023_01/blob/main/Arquitectura%20de%20Negocio/ARQ_NEGOCIO_PC1_2023_01.pdf)
 - [PC2](https://github.com/luisito362/2023_01/blob/main/Arquitectura%20de%20Negocio/ARQ_NEGOCIO_PC2_2023_01.pdf)
 - [EXAMEN PARCIAL](https://github.com/luisito362/2023_01/blob/main/Arquitectura%20de%20Negocio/ARQ_NEGOCIO_PARCIAL_2023_01.pdf)
 - [EXAMEN FINAL](https://github.com/luisito362/2023_01/blob/main/Arquitectura%20de%20Negocio/ARQ_NEGOCIO_FINAL_2023_01.pdf)
 - [TRABAJO PARCIAL Y FINAL](https://github.com/luisito362/2023_01/blob/main/Arquitectura%20de%20Negocio/TRABAJO_FINAL-ARQUITECTURA%20DE%20NEGOCIO-GRUPO%201-SI704-2301-SX52.pdf)
+
+## Arquitectura Empresarial
+- [PC1](https://github.com/luisito362/2023_01/blob/main/Arquitectura%20Empresarial/PC1.pdf)
+- [PC2](https://github.com/luisito362/2023_01/blob/main/Arquitectura%20Empresarial/PC2.pdf)
+- [EXAMEN PARCIAL](https://github.com/luisito362/2023_01/blob/main/Arquitectura%20Empresarial/PARCIAL.pdf)
+
+## Gerencia de Proyectos de SI/TI 
+- [GRABACIONES](https://www.youtube.com/watch?v=PxY54hvW4Z8&list=PLihzuaPGPKajjxjk-qL8Up7xt9oQpfHqN)
