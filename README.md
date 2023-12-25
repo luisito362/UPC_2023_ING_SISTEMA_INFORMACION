@@ -36,9 +36,16 @@
 - [EXAMEN PARCIAL](https://github.com/luisito362/2023_01/blob/main/Arquitectura%20Empresarial/PARCIAL.pdf)
 
 ## Gerencia de Proyectos de SI/TI 
+- [PC1](https://github.com/luisito362/2023_01/blob/main/Gerencia%20de%20Proyectos%20SI-TI/PC1.pdf)
+- [EXAMEN PARCIAL](https://github.com/luisito362/2023_01/blob/main/Gerencia%20de%20Proyectos%20SI-TI/PARCIAL.pdf)
+- [EXAMEN FINAL](https://github.com/luisito362/2023_01/blob/main/Gerencia%20de%20Proyectos%20SI-TI/FINAL.pdf)
 - [GRABACIONES](https://www.youtube.com/watch?v=PxY54hvW4Z8&list=PLihzuaPGPKajjxjk-qL8Up7xt9oQpfHqN)
 
 ## Diseño de Experimentos en SI
 - [PC1](https://github.com/luisito362/2023_01/blob/main/Dise%C3%B1o%20de%20Experimentos%20en%20S.I/PC1_2023_02.pdf)
 - [EXAMEN PARCIAL](https://github.com/luisito362/2023_01/blob/main/Dise%C3%B1o%20de%20Experimentos%20en%20S.I/EXAM_PARCIAL_2023_2.pdf)
 - [EXAMEN FINAL](https://github.com/luisito362/2023_01/blob/main/Dise%C3%B1o%20de%20Experimentos%20en%20S.I/EXAM_FINAL_2023_2.pdf)
+
+## Gestión de Seguridad de Información
+- [PC2](https://github.com/luisito362/2023_01/blob/main/Gesti%C3%B3n%20de%20Seguridad%20de%20Informaci%C3%B3n/PC2_2023_02.pdf)
+- [EXAMEN FINAL](https://github.com/luisito362/2023_01/blob/main/Gesti%C3%B3n%20de%20Seguridad%20de%20Informaci%C3%B3n/EXAM.FINAL_2023_02.pdf)
