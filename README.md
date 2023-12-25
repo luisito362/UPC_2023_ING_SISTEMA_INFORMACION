@@ -8,7 +8,6 @@
 
 ## Redes y Comunicacion de Datos 
 - [PC1](https://github.com/luisito362/2023_01/blob/main/Redes%20y%20Comunicacion%20de%20Datos/REDES_PC1_2023_01.pdf)
-- [PC2]
 - [EXAMEN PARCIAL](https://github.com/luisito362/2023_01/blob/main/Redes%20y%20Comunicacion%20de%20Datos/REDES_PARCIAL_2023_01.pdf)
 - [EXAMEN FINAL](https://github.com/luisito362/2023_01/blob/main/Redes%20y%20Comunicacion%20de%20Datos/REDES_EX_FINAL_2023_01.pdf)
 - [TRABAJO PARCIAL Y FINAL](https://github.com/luisito362/2023_01/blob/main/Redes%20y%20Comunicacion%20de%20Datos/SI640_Trabajo_Final_2023-1_Equipo05.pdf)
@@ -38,3 +37,8 @@
 
 ## Gerencia de Proyectos de SI/TI 
 - [GRABACIONES](https://www.youtube.com/watch?v=PxY54hvW4Z8&list=PLihzuaPGPKajjxjk-qL8Up7xt9oQpfHqN)
+
+## Diseño de Experimentos en SI
+- [PC1](https://github.com/luisito362/2023_01/blob/main/Dise%C3%B1o%20de%20Experimentos%20en%20S.I/PC1_2023_02.pdf)
+- [EXAMEN PARCIAL](https://github.com/luisito362/2023_01/blob/main/Dise%C3%B1o%20de%20Experimentos%20en%20S.I/EXAM_PARCIAL_2023_2.pdf)
+- [EXAMEN FINAL](https://github.com/luisito362/2023_01/blob/main/Dise%C3%B1o%20de%20Experimentos%20en%20S.I/EXAM_FINAL_2023_2.pdf)
