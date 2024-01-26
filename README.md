@@ -34,8 +34,6 @@
 - [PC1](https://github.com/luisito362/2023_01/blob/main/Arquitectura%20Empresarial/PC1.pdf)
 - [PC2](https://github.com/luisito362/2023_01/blob/main/Arquitectura%20Empresarial/PC2.pdf)
 - [EXAMEN PARCIAL](https://github.com/luisito362/2023_01/blob/main/Arquitectura%20Empresarial/PARCIAL.pdf)
-- [EXAMEN FINAL]()
-- [GRABACIONES]()
 
 ## Gerencia de Proyectos de SI/TI 
 - [PC1](https://github.com/luisito362/2023_01/blob/main/Gerencia%20de%20Proyectos%20SI-TI/PC1.pdf)
@@ -51,4 +49,4 @@
 ## Gestión de Seguridad de Información
 - [PC2](https://github.com/luisito362/2023_01/blob/main/Gesti%C3%B3n%20de%20Seguridad%20de%20Informaci%C3%B3n/PC2_2023_02.pdf)
 - [EXAMEN FINAL](https://github.com/luisito362/2023_01/blob/main/Gesti%C3%B3n%20de%20Seguridad%20de%20Informaci%C3%B3n/EXAM.FINAL_2023_02.pdf)
-- [GRABACIONES]()
+- [GRABACIONES](https://www.youtube.com/playlist?list=PLihzuaPGPKaiX04qItYAnjmo-SvQFNX9A)
