@@ -2,7 +2,7 @@
 ## Calculo 2
 - [PC1](https://github.com/luisito362/2023_01/blob/main/Calculo%202/PC1_CALCULO2_2022_01.pdf)
 - [PC2](https://github.com/luisito362/2023_01/blob/main/Calculo%202/PC2_CALCULO2_2022_01.pdf)
-- [PC33](https://github.com/luisito362/2023_01/blob/main/Calculo%202/PC3_CALCULO2_2022_01.pdf)
+- [PC3](https://github.com/luisito362/2023_01/blob/main/Calculo%202/PC3_CALCULO2_2022_01.pdf)
 - [Trabajo Final](https://github.com/luisito362/2023_01/blob/main/Calculo%202/CI34_Gallegos%20Ayuque%2CLuis%20Felipe.pdf)
 
 ## Programacion Orientada a Objetos
