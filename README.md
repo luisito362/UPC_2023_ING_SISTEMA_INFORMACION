@@ -1,4 +1,10 @@
 # ING_SISTEMA_INFORMACION
+## Programacion Orientada a Objetos
+- [Practica Laboratorio 1]
+- [Practica Laboratorio 2]
+- [Examen FInal]
+
+
 ## Estadistica Aplicada 1
 - [Control 1](https://github.com/luisito362/2023_01/blob/main/Estadistica%20Aplicada%201/CONTROL_1.pdf)
 - [Control 2](https://github.com/luisito362/2023_01/blob/main/Estadistica%20Aplicada%201/CONTROL_2.pdf)
@@ -8,8 +14,8 @@
 
 ## Redes y Comunicacion de Datos 
 - [PC1](https://github.com/luisito362/2023_01/blob/main/Redes%20y%20Comunicacion%20de%20Datos/REDES_PC1_2023_01.pdf)
-- [EXAMEN PARCIAL](https://github.com/luisito362/2023_01/blob/main/Redes%20y%20Comunicacion%20de%20Datos/REDES_PARCIAL_2023_01.pdf)
-- [EXAMEN FINAL](https://github.com/luisito362/2023_01/blob/main/Redes%20y%20Comunicacion%20de%20Datos/REDES_EX_FINAL_2023_01.pdf)
+- [Examen Parcial](https://github.com/luisito362/2023_01/blob/main/Redes%20y%20Comunicacion%20de%20Datos/REDES_PARCIAL_2023_01.pdf)
+- [Examen Final](https://github.com/luisito362/2023_01/blob/main/Redes%20y%20Comunicacion%20de%20Datos/REDES_EX_FINAL_2023_01.pdf)
 - [TRABAJO PARCIAL Y FINAL](https://github.com/luisito362/2023_01/blob/main/Redes%20y%20Comunicacion%20de%20Datos/SI640_Trabajo_Final_2023-1_Equipo05.pdf)
 
 ## Diseño de Base de Datos 
