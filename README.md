@@ -6,7 +6,7 @@
 ### Comprensión y Producción de lenguaje I (HU625)
 ### Matemática Básica (MA420)
 ## Ciclo II
-### Organizacion y Direccion de Empresas (CC200)
+### Organizacion y Direccion de Empresas (AD99)
 ### Programacion Orientada a Objetos (CC201)
 - [Practica Laboratorio 1](https://github.com/luisito362/2023_01/blob/main/Programacion%20Orientada%20Objetos/LB1.pdf)
 - [Practica Laboratorio 2](https://github.com/luisito362/2023_01/blob/main/Programacion%20Orientada%20Objetos/LB2.pdf)
