@@ -39,6 +39,7 @@
 ## Ciclo IV
 ### Fisica II (CC200)
 ### Matematica Computacional (HU548)
+falta agregar
 ### IHC y Tecnologias Moviles (HU612)
 ### Arquitectura de Computadoras y Sistemas Operativos (HU625)
 
@@ -86,7 +87,7 @@
 - [EXAMEN PARCIAL](https://github.com/luisito362/2023_01/blob/main/Gerencia%20de%20Proyectos%20SI-TI/PARCIAL.pdf)
 - [EXAMEN FINAL](https://github.com/luisito362/2023_01/blob/main/Gerencia%20de%20Proyectos%20SI-TI/FINAL.pdf)
 - [GRABACIONES](https://www.youtube.com/watch?v=PxY54hvW4Z8&list=PLihzuaPGPKajjxjk-qL8Up7xt9oQpfHqN)
-### Implmentacion de Sistemas Empresariales (HU548)
+### Implementacion de Sistemas Empresariales (HU548)
 ### Arquitectura Empresarial (HU612)
 - [PC1](https://github.com/luisito362/2023_01/blob/main/Arquitectura%20Empresarial/PC1.pdf)
 - [PC2](https://github.com/luisito362/2023_01/blob/main/Arquitectura%20Empresarial/PC2.pdf)
