@@ -6,14 +6,63 @@
 ### Comprensión y Producción de lenguaje I (HU625)
 ### Matemática Básica (MA420)
 ## Ciclo II
+### Organizacion y Direccion de Empresas (CC200)
+### Programacion Orientada a Objetos (CC201)
+- [Practica Laboratorio 1](https://github.com/luisito362/2023_01/blob/main/Programacion%20Orientada%20Objetos/LB1.pdf)
+- [Practica Laboratorio 2](https://github.com/luisito362/2023_01/blob/main/Programacion%20Orientada%20Objetos/LB2.pdf)
+- [Examen FInal](https://github.com/luisito362/2023_01/blob/main/Programacion%20Orientada%20Objetos/EX.FINAL.pdf)
+- [Grabaciones](https://www.youtube.com/watch?v=yk-lFIv5SGs&list=PLihzuaPGPKaijeNAARsAFuUJcRddIUnPd&index=1)
+### Seminario de Investigación Academica I (HU159)
+### Comprensión y Producción de lenguaje II (HU626)
+### Calculo I (MA262)
 ## Ciclo III
+### Fundamentos en Programacion (CC200)
+### Ética y Ciudadanía (HU548)
+### Cratividad y Liderazgo (HU612)
+### Comprensión y Producción de lenguaje I (HU625)
+### Matemática Básica (MA420)
 ## Ciclo IV
+### Fundamentos en Programacion (CC200)
+### Ética y Ciudadanía (HU548)
+### Cratividad y Liderazgo (HU612)
+### Comprensión y Producción de lenguaje I (HU625)
+### Matemática Básica (MA420)
 ## Ciclo V
+### Fundamentos en Programacion (CC200)
+### Ética y Ciudadanía (HU548)
+### Cratividad y Liderazgo (HU612)
+### Comprensión y Producción de lenguaje I (HU625)
+### Matemática Básica (MA420)
 ## Ciclo VI
+### Fundamentos en Programacion (CC200)
+### Ética y Ciudadanía (HU548)
+### Cratividad y Liderazgo (HU612)
+### Comprensión y Producción de lenguaje I (HU625)
+### Matemática Básica (MA420)
 ## Ciclo VII
+### Fundamentos en Programacion (CC200)
+### Ética y Ciudadanía (HU548)
+### Cratividad y Liderazgo (HU612)
+### Comprensión y Producción de lenguaje I (HU625)
+### Matemática Básica (MA420)
 ## Ciclo VIII
+### Fundamentos en Programacion (CC200)
+### Ética y Ciudadanía (HU548)
+### Cratividad y Liderazgo (HU612)
+### Comprensión y Producción de lenguaje I (HU625)
+### Matemática Básica (MA420)
 ## Ciclo IX
+### Fundamentos en Programacion (CC200)
+### Ética y Ciudadanía (HU548)
+### Cratividad y Liderazgo (HU612)
+### Comprensión y Producción de lenguaje I (HU625)
+### Matemática Básica (MA420)
 ## Ciclo X
+### Fundamentos en Programacion (CC200)
+### Ética y Ciudadanía (HU548)
+### Cratividad y Liderazgo (HU612)
+### Comprensión y Producción de lenguaje I (HU625)
+### Matemática Básica (MA420)
 
 ### Calculo 2
 - [PC1](https://github.com/luisito362/2023_01/blob/main/Calculo%202/PC1_CALCULO2_2022_01.pdf)
@@ -21,11 +70,7 @@
 - [PC3](https://github.com/luisito362/2023_01/blob/main/Calculo%202/PC3_CALCULO2_2022_01.pdf)
 - [Trabajo Final](https://github.com/luisito362/2023_01/blob/main/Calculo%202/CI34_Gallegos%20Ayuque%2CLuis%20Felipe.pdf)
 
-## Programacion Orientada a Objetos
-- [Practica Laboratorio 1](https://github.com/luisito362/2023_01/blob/main/Programacion%20Orientada%20Objetos/LB1.pdf)
-- [Practica Laboratorio 2](https://github.com/luisito362/2023_01/blob/main/Programacion%20Orientada%20Objetos/LB2.pdf)
-- [Examen FInal](https://github.com/luisito362/2023_01/blob/main/Programacion%20Orientada%20Objetos/EX.FINAL.pdf)
-- [Grabaciones](https://www.youtube.com/watch?v=yk-lFIv5SGs&list=PLihzuaPGPKaijeNAARsAFuUJcRddIUnPd&index=1)
+
 
 ## Matematica Computacional
 
