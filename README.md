@@ -5,8 +5,8 @@
 ### Cratividad y Liderazgo (HU612)
 ### Comprensión y Producción de lenguaje I (HU625)
 ### Matemática Básica (MA420)
-Este es un...
-... salto de línea
+...
+...
 ## Ciclo II
 ### Organizacion y Direccion de Empresas (AD99)
 ### Programacion Orientada a Objetos (CC201)
