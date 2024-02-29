@@ -5,7 +5,7 @@
 ### Cratividad y Liderazgo (HU612)
 ### Comprensión y Producción de lenguaje I (HU625)
 ### Matemática Básica (MA420)
-...
+
 
 ## Ciclo II
 ### Organizacion y Direccion de Empresas (AD99)
