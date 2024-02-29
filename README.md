@@ -6,7 +6,7 @@
 ### Comprensión y Producción de lenguaje I (HU625)
 ### Matemática Básica (MA420)
 ...
-...
+
 ## Ciclo II
 ### Organizacion y Direccion de Empresas (AD99)
 ### Programacion Orientada a Objetos (CC201)
