@@ -5,6 +5,7 @@
 ### Cratividad y Liderazgo (HU612)
 ### Comprensión y Producción de lenguaje I (HU625)
 ### Matemática Básica (MA420)
+
 ## Ciclo II
 ### Organizacion y Direccion de Empresas (AD99)
 ### Programacion Orientada a Objetos (CC201)
@@ -15,6 +16,7 @@
 ### Seminario de Investigación Academica I (HU159)
 ### Comprensión y Producción de lenguaje II (HU626)
 ### Calculo I (MA262)
+
 ## Ciclo III
 ### Fundamentos en Programacion (CC200)
 ### Ética y Ciudadanía (HU548)
