@@ -1,6 +1,10 @@
 # ING_SISTEMA_INFORMACION
 ## Ciclo I
-### Fundamentos en Programacion (CC20)
+### Fundamentos en Programacion (CC200)
+### Ética y Ciudadanía (HU548)
+### Cratividad y Liderazgo (HU612)
+### Comprensión y Producción de lenguaje I (HU625)
+### Matemática Básica (MA420)
 ## Ciclo II
 ## Ciclo III
 ## Ciclo IV
