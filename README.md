@@ -9,6 +9,7 @@
 - [Practica Laboratorio 1](https://github.com/luisito362/2023_01/blob/main/Programacion%20Orientada%20Objetos/LB1.pdf)
 - [Practica Laboratorio 2](https://github.com/luisito362/2023_01/blob/main/Programacion%20Orientada%20Objetos/LB2.pdf)
 - [Examen FInal](https://github.com/luisito362/2023_01/blob/main/Programacion%20Orientada%20Objetos/EX.FINAL.pdf)
+- [Grabaciones](https://www.youtube.com/watch?v=yk-lFIv5SGs&list=PLihzuaPGPKaijeNAARsAFuUJcRddIUnPd&index=1)
 
 
 ## Estadistica Aplicada 1
