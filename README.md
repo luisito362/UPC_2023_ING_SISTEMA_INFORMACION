@@ -11,6 +11,8 @@
 - [Examen FInal](https://github.com/luisito362/2023_01/blob/main/Programacion%20Orientada%20Objetos/EX.FINAL.pdf)
 - [Grabaciones](https://www.youtube.com/watch?v=yk-lFIv5SGs&list=PLihzuaPGPKaijeNAARsAFuUJcRddIUnPd&index=1)
 
+## Matematica Computacional
+
 
 ## Estadistica Aplicada 1
 - [Control 1](https://github.com/luisito362/2023_01/blob/main/Estadistica%20Aplicada%201/CONTROL_1.pdf)
