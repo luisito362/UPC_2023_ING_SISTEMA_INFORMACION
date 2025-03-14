@@ -117,7 +117,9 @@ falta agregar
 ### Taller de Proyectos II (CC200)
 ### Gestión de Tecnologias de Información (HU548)
 
-
+## Selectivos
+### Ingenieria de Datos con Azure (DMC Perú)
+- [GRABACIONES](https://www.youtube.com/watch?v=quWU3mYQjQU&list=PLihzuaPGPKaihfaKgGjoZx2Bvhlq1CC-P)
 
 
 
