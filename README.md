@@ -119,6 +119,7 @@ falta agregar
 
 ## Selectivos
 ### Ingenieria de Datos con Azure (DMC Perú)
+- [PPTX](https://github.com/luisito362/2023_01/tree/main/Ingenieria%20de%20datos%20con%20Azure)
 - [GRABACIONES](https://www.youtube.com/watch?v=quWU3mYQjQU&list=PLihzuaPGPKaihfaKgGjoZx2Bvhlq1CC-P)
 
 
